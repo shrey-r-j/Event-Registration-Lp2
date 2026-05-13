@@ -58,7 +58,7 @@ MONGO_URI=mongodb+srv://<username>:<password>@cluster0.xxxxx.mongodb.net/event-r
 
 # Set to "development" locally, "production" on EC2
 # When "production", the backend serves the React build as static files
-NODE_ENV=development
+NODE_ENV=production
 ```
 
 | Variable    | Description                                    | Example                                      |
